@@ -90,7 +90,7 @@ composer config -g repos.packagist composer https://mirrors.cloud.tencent.com/co
  1. 下载（克隆）项目代码，初始化项目
 ```
 $ git clone https://github.com/lkeme/BiliHelper-personal.git
-$ cd BiliHelper/conf
+$ cd BiliHelper-personal/conf
 $ cp user.conf.example user.conf
 ```
  2. 使用 [composer](https://getcomposer.org/download/) 工具进行安装
